@@ -1,1 +1,47 @@
-style
+* {
+	font-family: helvetica;
+	}
+h1 {
+	font-size: 70px;
+	font-weight: bold;	
+	}
+.intro {
+		background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+		text-align: center;
+		color: white;
+		}	
+.buton {
+		font-size: 18px;
+		color: white;
+		}
+.talie3 {
+		text-align: center;
+		}
+.talie1 h2 {
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+	}	
+.talie3 h3 {
+	font-size: 23px;
+	font-weight: bold;
+	text-align: center;
+	}
+p {
+	font-size: 14px;
+	
+	}
+.talie4 p {
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
+	}	
+.talie5 {
+	font-size: 18px;
+	color: white;
+	}
+
+		
+
+
+		
